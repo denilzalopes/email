@@ -1,0 +1,4 @@
+Test E-mail
+
+Ceci est le corps de l'e-mail.
+
